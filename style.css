@@ -1,5 +1,45 @@
 
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  
+  }
+ 
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 10vw;
+    text-decoration: none;
+    font-size: 17px;
+  }  
+    .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
 
+.head{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    font-size: 45px;
+}
 
+.background {
+    background-color:grey;
+    
+}
 
+p {
+    text-align: center;
+    font-size: 25px;
+    color: orange;
+    border-style: double;
+    border-color: black;
+    padding: 10px 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+    
+}
   
