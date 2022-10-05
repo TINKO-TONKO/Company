@@ -30,6 +30,19 @@
     background-color:grey;
     
 }
+.item {
+  text-align: center;
+  font-size: 25px;
+  color: orange;
+  border-style: double;
+  border-color: black;
+  padding: 10px 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-decoration: underline;
+  
+  
+}
 
 p {
     text-align: center;
@@ -40,6 +53,7 @@ p {
     padding: 10px 10px;
     margin-right: 20%;
     margin-left: 20%;
+
     
 }
   
